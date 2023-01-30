@@ -26,3 +26,4 @@ pycollection=pytweet["tweets"]
 pycollection.insert_many(a_dict)
 
 
+#note:done this project in google colab
